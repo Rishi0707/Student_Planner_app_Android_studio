@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StudentPlannerAdmin</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+</resources>

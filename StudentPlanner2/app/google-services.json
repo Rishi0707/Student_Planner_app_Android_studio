@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "547539554163",
+    "firebase_url": "https://student-planner-6d3c1-default-rtdb.firebaseio.com",
+    "project_id": "student-planner-6d3c1",
+    "storage_bucket": "student-planner-6d3c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547539554163:android:35e0de042d5105a75c7f06",
+        "android_client_info": {
+          "package_name": "com.example.studentplanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGbh-0IkeMd5uiY2rOpQ-1b3yLYg86Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547539554163:android:d16b3d349731ed1d5c7f06",
+        "android_client_info": {
+          "package_name": "com.example.studentplanneradmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqGbh-0IkeMd5uiY2rOpQ-1b3yLYg86Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
